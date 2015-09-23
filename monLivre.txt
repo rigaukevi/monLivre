@@ -2,3 +2,4 @@
 ==Chapitre 1
 //todo: ecire le chapitre
 "pour bien connaitre les autres, il faut se connaitre d'abord soi-meme"
+on rajoute
